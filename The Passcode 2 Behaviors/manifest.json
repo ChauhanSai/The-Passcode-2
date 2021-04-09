@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Created By: ChauhanSai Dev Team",
+        "name": "The Passcode 2 Behaviors",
+        "uuid": "8a73ec22-8181-40ca-a292-6455396830ad",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description": "Created By: ChauhanSai Dev Team",
+            "type": "data",
+            "uuid": "4464433a-c860-48e3-ab1a-f77b8bbb3eb9",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "83265f2e-24f4-4ebb-81d6-da4e7ef0a866",
+            "version": [1, 0, 0]
+        }
+    ]
+}

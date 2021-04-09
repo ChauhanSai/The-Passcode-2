@@ -1,0 +1,6 @@
+*.mcworld
+*.mctemplate
+*.mcaddon
+*.mcpack
+*.ffs_gui
+Images/*
